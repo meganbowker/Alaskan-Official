@@ -1,4 +1,5 @@
 // Write JavaScript here
+console.log('jkjkj')
 $(document).ready(function() {
 
   $('img.plus').on({
