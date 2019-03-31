@@ -1,5 +1,6 @@
 // Write JavaScript here
 $(document).ready(function() {
+	$('body').hide();
 
   $('img.plus').on({
     mouseenter: function () {
